@@ -12,6 +12,11 @@ Improvments:
 - Total Per Person Label
 - Reset to Default Button
 
+-- Setup --
+- Android Studio Otter
+- Android 5.0 Lollipop
+
+
 -- Screenshots --
 
 <img width="339" height="733" alt="Screenshot 2025-11-30 103350" src="https://github.com/user-attachments/assets/efcd6424-a9b4-4741-9f5a-31e08e7f5ee1" />
