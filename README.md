@@ -13,3 +13,6 @@ Improvments:
 - Reset to Default Button
 
 -- Screenshots --
+<img width="339" height="733" alt="Screenshot 2025-11-30 103350" src="https://github.com/user-attachments/assets/efcd6424-a9b4-4741-9f5a-31e08e7f5ee1" />
+<img width="400" height="730" alt="Screenshot 2025-11-30 103444" src="https://github.com/user-attachments/assets/dfbefa02-4cb1-483e-97f5-7fc8df86562f" />
+<img width="381" height="758" alt="Screenshot 2025-11-30 103503" src="https://github.com/user-attachments/assets/3fd52da0-f599-4e34-a1f3-b94008744701" />
